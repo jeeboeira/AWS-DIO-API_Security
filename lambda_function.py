@@ -18,5 +18,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'body': json.dumps('Your name was insert with success, ' + name)
+        'body': json.dumps('Your check in was successful, ' + name)
     }
