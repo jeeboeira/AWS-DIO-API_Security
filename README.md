@@ -12,6 +12,7 @@ Roteiro de desenvolvimento do projeto
 # Etapas do Desenvolvimento
   - Foi criado uma tabela no DynamoDB
   - Em seguida uma função Lambda
+  - Adicionado um código Python para criar uma lista de checkin
   - Adicionado inline policy entre a função e o DB
   - Criado uma API REST
   - Criado um resource na API com método Post
